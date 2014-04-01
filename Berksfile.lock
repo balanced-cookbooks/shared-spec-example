@@ -1,0 +1,9 @@
+DEPENDENCIES
+  shared-spec-example
+    path: .
+    metadata: true
+
+GRAPH
+  poise (1.0.10)
+  shared-spec-example (1.0.0)
+    poise (>= 0.0.0)
